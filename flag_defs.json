@@ -1,0 +1,20 @@
+{
+    "mF":  {
+         "name": "My Flag 1",
+         "shapes":  [
+            "square", "circle", "triangle"
+         ], 
+         "colors": [
+            "green", "red", "blue"
+         ]
+    },
+    "rF":  {
+      "name": "My Flag 2",
+      "shapes":  [
+         "square", "circle", "triangle"
+      ], 
+      "colors": [
+         "yellow", "orange", "green"
+      ]
+ }
+  }
