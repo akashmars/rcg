@@ -84,7 +84,7 @@ def generate_flag(num, shape, color):
     pen.goto(y)
     turtle.penup()
 
-
+# Function
 
 def get_number_shape():
     sample_number = [1, 2, 3 ]
